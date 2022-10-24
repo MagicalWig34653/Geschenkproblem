@@ -2,6 +2,7 @@
 
 
 Dies ist eine Aufgabe aus Informatik.
+
 Entwickelt mit IntelliJ IDEA und Struktograf2.
 
 
