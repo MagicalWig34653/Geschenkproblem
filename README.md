@@ -2,6 +2,7 @@
 
 
 Dies ist eine Aufgabe aus Informatik.
+Entwickelt mit IntelliJ IDEA und Struktograf2.
 
 
 ## Hier ist das Struktogramm
@@ -9,5 +10,5 @@ Dies ist eine Aufgabe aus Informatik.
 
 
 
-Entwickelt mit IntelliJ IDEA und Struktograf2
+
 © Lino Laske
