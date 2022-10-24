@@ -12,4 +12,4 @@ Entwickelt mit IntelliJ IDEA und Struktograf2.
 
 
 
-© Lino Laske
+© Lino Laske 2022
